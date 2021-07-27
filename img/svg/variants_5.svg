@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1016.5 1016.5">
+  <defs/>
+  <defs>
+    <linearGradient id="a" x1="211.6" x2="320.4" y1="271.4" y2="271.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe5a6"/>
+      <stop offset="1" stop-color="#fae4a6"/>
+    </linearGradient>
+    <linearGradient id="b" x1="310.4" x2="419.1" y1="271.4" y2="271.4" xlink:href="#a"/>
+    <linearGradient id="c" x1="211.6" x2="320.4" y1="370.1" y2="370.1" xlink:href="#a"/>
+    <linearGradient id="d" x1="409.1" x2="517.9" y1="271.4" y2="271.4" xlink:href="#a"/>
+    <linearGradient id="e" x1="507.9" x2="616.6" y1="271.4" y2="271.4" xlink:href="#a"/>
+    <linearGradient id="f" x1="606.6" x2="715.4" y1="271.4" y2="271.4" xlink:href="#a"/>
+    <linearGradient id="g" x1="705.4" x2="814.1" y1="271.4" y2="271.4" xlink:href="#a"/>
+    <linearGradient id="h" x1="705.4" x2="814.1" y1="370.1" y2="370.1" xlink:href="#a"/>
+    <linearGradient id="i" x1="211.6" x2="320.4" y1="468.9" y2="468.9" xlink:href="#a"/>
+    <linearGradient id="j" x1="310.4" x2="419.1" y1="468.9" y2="468.9" xlink:href="#a"/>
+    <linearGradient id="k" x1="705.4" x2="814.1" y1="468.9" y2="468.9" xlink:href="#a"/>
+    <linearGradient id="l" x1="211.6" x2="320.4" y1="567.6" y2="567.6" xlink:href="#a"/>
+    <linearGradient id="m" x1="310.4" x2="419.1" y1="567.6" y2="567.6" xlink:href="#a"/>
+    <linearGradient id="n" x1="705.4" x2="814.1" y1="567.6" y2="567.6" xlink:href="#a"/>
+    <linearGradient id="o" x1="211.6" x2="320.4" y1="666.4" y2="666.4" xlink:href="#a"/>
+    <linearGradient id="p" x1="705.4" x2="814.1" y1="666.4" y2="666.4" xlink:href="#a"/>
+    <linearGradient id="q" x1="211.6" x2="320.4" y1="765.1" y2="765.1" xlink:href="#a"/>
+    <linearGradient id="r" x1="310.4" x2="419.1" y1="765.1" y2="765.1" xlink:href="#a"/>
+    <linearGradient id="s" x1="409.1" x2="517.9" y1="765.1" y2="765.1" xlink:href="#a"/>
+    <linearGradient id="t" x1="507.9" x2="616.6" y1="765.1" y2="765.1" xlink:href="#a"/>
+    <linearGradient id="u" x1="606.6" x2="715.4" y1="765.1" y2="765.1" xlink:href="#a"/>
+    <linearGradient id="v" x1="705.4" x2="814.1" y1="765.1" y2="765.1" xlink:href="#a"/>
+    <linearGradient id="w" x1="409.1" x2="517.9" y1="370.1" y2="370.1" xlink:href="#a"/>
+    <linearGradient id="x" x1="409.1" x2="517.9" y1="567.6" y2="567.6" xlink:href="#a"/>
+    <linearGradient id="y" x1="310.4" x2="419.1" y1="666.4" y2="666.4" xlink:href="#a"/>
+    <linearGradient id="z" x1="409.1" x2="517.9" y1="666.4" y2="666.4" xlink:href="#a"/>
+    <linearGradient id="A" x1="507.9" x2="616.6" y1="666.4" y2="666.4" xlink:href="#a"/>
+    <linearGradient id="B" x1="310.4" x2="419.1" y1="370.1" y2="370.1" xlink:href="#a"/>
+    <linearGradient id="C" x1="507.9" x2="616.6" y1="370.1" y2="370.1" xlink:href="#a"/>
+    <linearGradient id="D" x1="606.6" x2="715.4" y1="370.1" y2="370.1" xlink:href="#a"/>
+    <linearGradient id="E" x1="409.1" x2="517.9" y1="468.9" y2="468.9" xlink:href="#a"/>
+    <linearGradient id="F" x1="507.9" x2="616.6" y1="468.9" y2="468.9" xlink:href="#a"/>
+    <linearGradient id="G" x1="606.6" x2="715.4" y1="468.9" y2="468.9" xlink:href="#a"/>
+    <linearGradient id="H" x1="507.9" x2="616.6" y1="567.6" y2="567.6" xlink:href="#a"/>
+    <linearGradient id="I" x1="606.6" x2="715.4" y1="567.6" y2="567.6" xlink:href="#a"/>
+    <linearGradient id="J" x1="606.6" x2="715.4" y1="666.4" y2="666.4" xlink:href="#a"/>
+    <linearGradient id="K" x1="4150.7" x2="4259.4" y1="379.5" y2="379.5" gradientTransform="translate(-4041.3 138.7)" xlink:href="#a"/>
+    <linearGradient id="L" x1="4249.4" x2="4358.2" y1="379.5" y2="379.5" gradientTransform="rotate(-45 2351.8 5327.2)" xlink:href="#a"/>
+    <linearGradient id="M" x1="4150.7" x2="4259.4" y1="478.3" y2="478.3" gradientTransform="translate(-3971.5 109.8)" xlink:href="#a"/>
+    <linearGradient id="N" x1="4348.2" x2="4456.9" y1="379.5" y2="379.5" gradientTransform="translate(-4099.2 -1)" xlink:href="#a"/>
+    <linearGradient id="O" x1="4446.9" x2="4555.7" y1="379.5" y2="379.5" gradientTransform="translate(-4128 -70.8)" xlink:href="#a"/>
+    <linearGradient id="P" x1="4545.7" x2="4654.4" y1="379.5" y2="379.5" gradientTransform="rotate(-45 2351.8 5327.2)" xlink:href="#a"/>
+    <linearGradient id="Q" x1="4644.4" x2="4753.2" y1="379.5" y2="379.5" gradientTransform="translate(-4186 -210.4)" xlink:href="#a"/>
+    <linearGradient id="R" x1="4644.4" x2="4753.2" y1="478.3" y2="478.3" gradientTransform="translate(-4116.1 -239.3)" xlink:href="#a"/>
+    <linearGradient id="S" x1="4150.7" x2="4259.4" y1="577" y2="577" gradientTransform="translate(-3901.7 80.9)" xlink:href="#a"/>
+    <linearGradient id="T" x1="4249.4" x2="4358.2" y1="577" y2="577" gradientTransform="rotate(-45 2351.8 5327.2)" xlink:href="#a"/>
+    <linearGradient id="U" x1="4644.4" x2="4753.2" y1="577" y2="577" gradientTransform="translate(-4046.3 -268.2)" xlink:href="#a"/>
+    <linearGradient id="V" x1="4150.7" x2="4259.4" y1="675.8" y2="675.8" gradientTransform="translate(-3831.8 52)" xlink:href="#a"/>
+    <linearGradient id="W" x1="4249.4" x2="4358.2" y1="675.8" y2="675.8" gradientTransform="translate(-3860.8 -17.9)" xlink:href="#a"/>
+    <linearGradient id="X" x1="4644.4" x2="4753.2" y1="675.8" y2="675.8" gradientTransform="translate(-3976.5 -297.2)" xlink:href="#a"/>
+    <linearGradient id="Y" x1="4150.7" x2="4259.4" y1="774.5" y2="774.5" gradientTransform="translate(-3762 23)" xlink:href="#a"/>
+    <linearGradient id="Z" x1="4644.4" x2="4753.2" y1="774.5" y2="774.5" gradientTransform="translate(-3906.6 -326)" xlink:href="#a"/>
+    <linearGradient id="aa" x1="4150.7" x2="4259.4" y1="873.3" y2="873.3" gradientTransform="translate(-3692.2 -5.9)" xlink:href="#a"/>
+    <linearGradient id="ab" x1="4249.4" x2="4358.2" y1="873.3" y2="873.3" gradientTransform="rotate(-45 2351.8 5327.2)" xlink:href="#a"/>
+    <linearGradient id="ac" x1="4348.2" x2="4456.9" y1="873.3" y2="873.3" gradientTransform="translate(-3750 -145.5)" xlink:href="#a"/>
+    <linearGradient id="ad" x1="4446.9" x2="4555.7" y1="873.3" y2="873.3" gradientTransform="translate(-3779 -215.4)" xlink:href="#a"/>
+    <linearGradient id="ae" x1="4545.7" x2="4654.4" y1="873.3" y2="873.3" gradientTransform="rotate(-45 2351.8 5327.2)" xlink:href="#a"/>
+    <linearGradient id="af" x1="4644.4" x2="4753.2" y1="873.3" y2="873.3" gradientTransform="translate(-3836.8 -355)" xlink:href="#a"/>
+    <linearGradient id="ag" x1="4348.2" x2="4456.9" y1="478.3" y2="478.3" gradientTransform="translate(-4029.3 -29.9)" xlink:href="#a"/>
+    <linearGradient id="ah" x1="4348.2" x2="4456.9" y1="675.8" y2="675.8" gradientTransform="translate(-3889.7 -87.7)" xlink:href="#a"/>
+    <linearGradient id="ai" x1="4249.4" x2="4358.2" y1="774.5" y2="774.5" gradientTransform="translate(-3791 -46.8)" xlink:href="#a"/>
+    <linearGradient id="aj" x1="4348.2" x2="4456.9" y1="774.5" y2="774.5" gradientTransform="translate(-3819.9 -116.6)" xlink:href="#a"/>
+    <linearGradient id="ak" x1="4446.9" x2="4555.7" y1="774.5" y2="774.5" gradientTransform="translate(-3848.8 -186.4)" xlink:href="#a"/>
+    <linearGradient id="al" x1="4249.4" x2="4358.2" y1="478.3" y2="478.3" gradientTransform="translate(-4000.4 40)" xlink:href="#a"/>
+    <linearGradient id="am" x1="4446.9" x2="4555.7" y1="478.3" y2="478.3" gradientTransform="translate(-4058.3 -99.7)" xlink:href="#a"/>
+    <linearGradient id="an" x1="4545.7" x2="4654.4" y1="478.3" y2="478.3" gradientTransform="translate(-4087.2 -169.5)" xlink:href="#a"/>
+    <linearGradient id="ao" x1="4348.2" x2="4456.9" y1="577" y2="577" gradientTransform="translate(-3959.5 -58.8)" xlink:href="#a"/>
+    <linearGradient id="ap" x1="4446.9" x2="4555.7" y1="577" y2="577" gradientTransform="translate(-3988.4 -128.6)" xlink:href="#a"/>
+    <linearGradient id="aq" x1="4545.7" x2="4654.4" y1="577" y2="577" gradientTransform="rotate(-45 2351.8 5327.2)" xlink:href="#a"/>
+    <linearGradient id="ar" x1="4446.9" x2="4555.7" y1="675.8" y2="675.8" gradientTransform="translate(-3918.6 -157.5)" xlink:href="#a"/>
+    <linearGradient id="as" x1="4545.7" x2="4654.4" y1="675.8" y2="675.8" gradientTransform="translate(-3947.5 -227.3)" xlink:href="#a"/>
+    <linearGradient id="at" x1="4545.7" x2="4654.4" y1="774.5" y2="774.5" gradientTransform="translate(-3877.7 -256.3)" xlink:href="#a"/>
+  </defs>
+  <g fill="none" stroke-dasharray="1 5 0 0 0 0" stroke-miterlimit="10" stroke-width="10">
+    <circle cx="266" cy="271.4" r="49.4" stroke="url(#a)"/>
+    <circle cx="364.7" cy="271.4" r="49.4" stroke="url(#b)"/>
+    <circle cx="266" cy="370.1" r="49.4" stroke="url(#c)"/>
+    <circle cx="463.5" cy="271.4" r="49.4" stroke="url(#d)"/>
+    <circle cx="562.2" cy="271.4" r="49.4" stroke="url(#e)"/>
+    <circle cx="661" cy="271.4" r="49.4" stroke="url(#f)"/>
+    <circle cx="759.7" cy="271.4" r="49.4" stroke="url(#g)"/>
+    <circle cx="759.7" cy="370.1" r="49.4" stroke="url(#h)"/>
+    <circle cx="266" cy="468.9" r="49.4" stroke="url(#i)"/>
+    <circle cx="364.7" cy="468.9" r="49.4" stroke="url(#j)"/>
+    <circle cx="759.7" cy="468.9" r="49.4" stroke="url(#k)"/>
+    <circle cx="266" cy="567.6" r="49.4" stroke="url(#l)"/>
+    <circle cx="364.7" cy="567.6" r="49.4" stroke="url(#m)"/>
+    <circle cx="759.7" cy="567.6" r="49.4" stroke="url(#n)"/>
+    <circle cx="266" cy="666.4" r="49.4" stroke="url(#o)"/>
+    <circle cx="759.7" cy="666.4" r="49.4" stroke="url(#p)"/>
+    <circle cx="266" cy="765.1" r="49.4" stroke="url(#q)"/>
+    <circle cx="364.7" cy="765.1" r="49.4" stroke="url(#r)"/>
+    <circle cx="463.5" cy="765.1" r="49.4" stroke="url(#s)"/>
+    <circle cx="562.2" cy="765.1" r="49.4" stroke="url(#t)"/>
+    <circle cx="661" cy="765.1" r="49.4" stroke="url(#u)"/>
+    <circle cx="759.7" cy="765.1" r="49.4" stroke="url(#v)"/>
+    <circle cx="463.5" cy="370.1" r="49.4" stroke="url(#w)"/>
+    <circle cx="463.5" cy="567.6" r="49.4" stroke="url(#x)"/>
+    <circle cx="364.7" cy="666.4" r="49.4" stroke="url(#y)"/>
+    <circle cx="463.5" cy="666.4" r="49.4" stroke="url(#z)"/>
+    <circle cx="562.2" cy="666.4" r="49.4" stroke="url(#A)"/>
+    <circle cx="364.7" cy="370.1" r="49.4" stroke="url(#B)"/>
+    <circle cx="562.2" cy="370.1" r="49.4" stroke="url(#C)"/>
+    <circle cx="661" cy="370.1" r="49.4" stroke="url(#D)"/>
+    <circle cx="463.5" cy="468.9" r="49.4" stroke="url(#E)"/>
+    <circle cx="562.2" cy="468.9" r="49.4" stroke="url(#F)"/>
+    <circle cx="661" cy="468.9" r="49.4" stroke="url(#G)"/>
+    <circle cx="562.2" cy="567.6" r="49.4" stroke="url(#H)"/>
+    <circle cx="661" cy="567.6" r="49.4" stroke="url(#I)"/>
+    <circle cx="661" cy="666.4" r="49.4" stroke="url(#J)"/>
+    <g>
+      <circle cx="163.7" cy="518.2" r="49.4" stroke="url(#K)" transform="rotate(-45 163.7 518.2)"/>
+      <circle cx="233.6" cy="448.4" r="49.4" stroke="url(#L)"/>
+      <circle cx="233.6" cy="588.1" r="49.4" stroke="url(#M)" transform="rotate(-45 233.6 588)"/>
+      <circle cx="303.4" cy="378.6" r="49.4" stroke="url(#N)" transform="rotate(-45 303.4 378.6)"/>
+      <circle cx="373.2" cy="308.8" r="49.4" stroke="url(#O)" transform="rotate(-45 373.2 308.8)"/>
+      <circle cx="443" cy="238.9" r="49.4" stroke="url(#P)"/>
+      <circle cx="512.9" cy="169.1" r="49.4" stroke="url(#Q)" transform="rotate(-45 512.9 169.1)"/>
+      <circle cx="582.7" cy="238.9" r="49.4" stroke="url(#R)" transform="rotate(-45 582.7 239)"/>
+      <circle cx="303.4" cy="657.9" r="49.4" stroke="url(#S)" transform="rotate(-45 303.4 657.9)"/>
+      <circle cx="373.2" cy="588.1" r="49.4" stroke="url(#T)"/>
+      <circle cx="652.5" cy="308.8" r="49.4" stroke="url(#U)" transform="rotate(-45 652.5 308.8)"/>
+      <circle cx="373.2" cy="727.7" r="49.4" stroke="url(#V)" transform="rotate(-45 373.2 727.7)"/>
+      <circle cx="443" cy="657.9" r="49.4" stroke="url(#W)" transform="rotate(-45 443 657.9)"/>
+      <circle cx="722.3" cy="378.6" r="49.4" stroke="url(#X)" transform="rotate(-45 722.3 378.6)"/>
+      <circle cx="443" cy="797.5" r="49.4" stroke="url(#Y)" transform="rotate(-45 443 797.5)"/>
+      <circle cx="792.2" cy="448.4" r="49.4" stroke="url(#Z)" transform="rotate(-45 792.2 448.4)"/>
+      <circle cx="512.9" cy="867.4" r="49.4" stroke="url(#aa)" transform="rotate(-45 512.9 867.4)"/>
+      <circle cx="582.7" cy="797.5" r="49.4" stroke="url(#ab)"/>
+      <circle cx="652.5" cy="727.7" r="49.4" stroke="url(#ac)" transform="rotate(-45 652.5 727.7)"/>
+      <circle cx="722.3" cy="657.9" r="49.4" stroke="url(#ad)" transform="rotate(-45 722.3 657.9)"/>
+      <circle cx="792.2" cy="588.1" r="49.4" stroke="url(#ae)"/>
+      <circle cx="862" cy="518.2" r="49.4" stroke="url(#af)" transform="rotate(-45 862 518.2)"/>
+      <circle cx="373.2" cy="448.4" r="49.4" stroke="url(#ag)" transform="rotate(-45 373.2 448.4)"/>
+      <circle cx="512.9" cy="588.1" r="49.4" stroke="url(#ah)" transform="rotate(-45 512.9 588)"/>
+      <circle cx="512.9" cy="727.7" r="49.4" stroke="url(#ai)" transform="rotate(-45 512.9 727.7)"/>
+      <circle cx="582.7" cy="657.9" r="49.4" stroke="url(#aj)" transform="rotate(-45 582.7 657.9)"/>
+      <circle cx="652.5" cy="588.1" r="49.4" stroke="url(#ak)" transform="rotate(-45 652.5 588)"/>
+      <circle cx="303.4" cy="518.2" r="49.4" stroke="url(#al)" transform="rotate(-45 303.4 518.2)"/>
+      <circle cx="443" cy="378.6" r="49.4" stroke="url(#am)" transform="rotate(-45 443 378.6)"/>
+      <circle cx="512.9" cy="308.8" r="49.4" stroke="url(#an)" transform="rotate(-45 512.9 308.8)"/>
+      <circle cx="443" cy="518.3" r="49.4" stroke="url(#ao)" transform="rotate(-45 443 518.3)"/>
+      <circle cx="512.9" cy="448.4" r="49.4" stroke="url(#ap)" transform="rotate(-45 512.9 448.4)"/>
+      <circle cx="582.7" cy="378.6" r="49.4" stroke="url(#aq)"/>
+      <circle cx="582.7" cy="518.2" r="49.4" stroke="url(#ar)" transform="rotate(-45 582.7 518.2)"/>
+      <circle cx="652.5" cy="448.4" r="49.4" stroke="url(#as)" transform="rotate(-45 652.5 448.4)"/>
+      <circle cx="722.3" cy="518.2" r="49.4" stroke="url(#at)" transform="rotate(-45 722.3 518.2)"/>
+    </g>
+  </g>
+</svg>

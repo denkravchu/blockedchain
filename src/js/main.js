@@ -21,6 +21,7 @@ document.getElementsByClassName("mobile-close-nav")[0].addEventListener("click",
 });
 
 // Ring skew ---------------------------
+const MOBILE_BREAKPOINT = 576
 window.addEventListener('load', () => {
 	skewRing()
 })
@@ -30,6 +31,7 @@ function skewRing() {
 	if (!ring) return
 
 	window.addEventListener('mousemove', e => {
+		if (window.innerWidth <= MOBILE_BREAKPOINT) return
 		const cursorPosition = getCursorPositionFromCenter(e)
 		const skewMatrix = getSkewMatrix(cursorPosition)
 		ring.style.cssText = `
@@ -47,9 +49,9 @@ function getCursorPositionFromCenter(e) {
 
 function getSkewMatrix(cursorPosition) {
 	const m = {
-		a: 1 - cursorPosition.x / 5000, b: cursorPosition.x / 5000,
-		c: cursorPosition.y / 5000,     d: 1,
-		tx: cursorPosition.x / 10,      ty: cursorPosition.y / 10
+		a: 1 - cursorPosition.x / 5000,   b: cursorPosition.x / 5000,
+		c: cursorPosition.y / 5000,       d: 1,
+		tx: cursorPosition.x / 10,        ty: cursorPosition.y / 10
 	}
 	return `${m.a}, ${m.b}, ${m.c}, ${m.d}, ${m.tx}, ${m.ty}`
 }

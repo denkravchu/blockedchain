@@ -1,0 +1,41 @@
+.portfolio-table {
+  width: 100%;
+  max-height: 600px;
+  overflow-y: auto;
+
+    tr {
+    background: rgba(255, 255, 255, .3);
+    transition: background .1s ease;
+    cursor: pointer;
+
+    &:nth-child(2n) {
+      background: rgba(255, 255, 255, .38);
+    }
+
+    &:hover {
+      background: #9b8c78;
+    }
+  }
+
+  tr, td {
+    padding: 1rem;
+  }
+
+  tr > td {
+    &:first-child {
+      width: auto;
+    }
+    &:last-child {
+      width: 100px;
+    }
+  }
+
+  td a {
+    transition: color .3s ease;
+    text-transform: uppercase;
+
+    &:hover {
+      color: #08141d;
+    }
+  }
+}

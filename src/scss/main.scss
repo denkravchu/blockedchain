@@ -1,4 +1,6 @@
 @import 'full-page-ring';
+@import 'components/portfolio-table';
+
 
 @charset "UTF-8";
 * {
@@ -410,7 +412,7 @@ section:not(.ring){
   /* padding-right: 10%; */
 }
 section p{
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .sparkle-circle{
@@ -481,12 +483,18 @@ label{
 }
 .projects-block-row{
   display: flex;
+  align-items: center;
 }
 .projects-block-section{
   width: 50%;
 }
 .projects-block-section:last-child{
-  padding-left: 1rem;
+  padding-left: 2rem;
+  max-height: 300px;
+  overflow-y: auto;
+
+  &::-webkit-scrollbar { width: 5px; }
+  &::-webkit-scrollbar-thumb { background-color: white;}
 }
 .projects-block-section .section-title{
   line-height: 1.2;
@@ -502,7 +510,8 @@ label{
 }
 .accordion-title{
   position: relative;
-  padding: 0.38rem 30% 0.4rem 0;
+  //padding: 0.38rem 30% 1rem 0;
+  width: 90%;
   font-size: 28px;
   color: #39434a;
   border-bottom: 1px solid #39434a;
@@ -516,7 +525,7 @@ label{
   height: 20px;
   line-height: 20px;
   top: calc(50% - 10px);
-  right: 0px;
+  right: -10%;
   background-color: #08141d;
   padding: 0 0.5rem;
   opacity: 0;
@@ -526,7 +535,7 @@ label{
   content: "+";
   position: absolute;
   top: calc(50% - 15px);
-  right: 0;
+  right: -10%;
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -538,7 +547,7 @@ label{
 }
 .accordion:hover .accordion-title:before{
   opacity: 1;
-  right: calc(30px + 5%);
+  right: 0;
 }
 .accordion:hover .accordion-title:after{
   transform: rotate(180deg);
@@ -632,6 +641,9 @@ footer{
   }
   .projects-block-section:last-child {
     padding-left: 0;
+    @media (max-width: 1024px) {
+      margin-top: 2rem;
+    }
   }
 }
 @media (max-width: 768px) {

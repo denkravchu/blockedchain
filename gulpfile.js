@@ -91,7 +91,7 @@ let webConfig = {
 function html() {
   return gulp.src(paths.html.src)
     .pipe(htmlmin({
-      collapseWhitespace: true,
+      collapseWhitespace: false,
       removeComments: true
     }))
     .pipe(gulp.dest(paths.html.dest))

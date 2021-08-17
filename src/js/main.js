@@ -34,7 +34,6 @@ function skewRing() {
 		const skewMatrix = getSkewMatrix(cursorPosition)
 		ring.style.cssText = `
 			transform: matrix(${skewMatrix});
-			transition: transform .1s ease;
 		`
 	})
 }
@@ -49,8 +48,8 @@ function getCursorPositionFromCenter(e) {
 function getSkewMatrix(cursorPosition) {
 	const m = {
 		a: 1 - cursorPosition.x / 5000, b: cursorPosition.x / 5000,
-		c: cursorPosition.y / 5000, d: 1,
-		tx: cursorPosition.x / 10, ty: cursorPosition.y / 10
+		c: cursorPosition.y / 5000,     d: 1,
+		tx: cursorPosition.x / 10,      ty: cursorPosition.y / 10
 	}
 	return `${m.a}, ${m.b}, ${m.c}, ${m.d}, ${m.tx}, ${m.ty}`
 }
